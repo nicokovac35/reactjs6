@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shopping-card{
+  justify-content: space-between;
+  background-color: #333333;
+  padding: 20px 30px;
+  color: aliceblue;
+  font-size: 30px;
+}
+
+
+.cards{
+  padding-left: 5px;
+}
+.product-item{
+  padding: 10px ;
+  border: 1px solid #282c34;
+}
+.cart-container{
+  border-top: 1px solid
+}
+
+/*--Efectos para carrito seccion*/
+
+.total{
+  border: solid 1px #333333;
+}
+.continue{
+  margin: 10px;
+ 
+}
+.btn-continue {
+  padding: 10px;
+}
+
