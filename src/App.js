@@ -36,49 +36,49 @@ function App() {
       url:'https://converse.com.mx/media/catalog/product/c/o/converse-dia-de-muertos-chuck-70-lona-unisex-bota-negro-a05667c1-1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 4000
     },
     {
       url:'https://converse.com.mx/media/catalog/product/c/o/converse-chuck-70-lona-unisex-choclo-rojo-a01450c-1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 4500
     },
     {
-      url:"https://drive.google.com/drive/folders/110hAuiBul7gly1umFhfju0CXwblURibu?usp=sharing",
+      url:'https://converse.com.mx/media/catalog/product/c/o/converse-come-tees-chuck-70s-lona-unisex-bota-naranja-a01762c-1_1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 1300
     },
     {
-      url:"https://drive.google.com/drive/folders/110hAuiBul7gly1umFhfju0CXwblURibu?usp=sharing",
+      url:'https://converse.com.mx/media/catalog/product/c/o/converse-seasonal-chuck-70-lona-dama-bota-rosa-a03795c-1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 2100
     },
     {
-      url:"https://drive.google.com/drive/folders/110hAuiBul7gly1umFhfju0CXwblURibu?usp=sharing",
+      url:'https://converse.com.mx/media/catalog/product/c/o/converse-chuck-70-at-cx-cc-lona-caballero-bota-negro-a03274c-1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 1200
     },
     {
-      url:"https://drive.google.com/drive/folders/110hAuiBul7gly1umFhfju0CXwblURibu?usp=sharing",
+      url:'https://converse.com.mx/media/catalog/product/c/o/converse-chuck-70-at-cx-cc-lona-caballero-bota-morado-a03275c-1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 3000
     },
     {
-      url:"https://drive.google.com/drive/folders/110hAuiBul7gly1umFhfju0CXwblURibu?usp=sharing",
+      url:'https://converse.com.mx/media/catalog/product/c/o/converse-chuck-70s-algodon-caballero-bota-negro-a02407c-1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 6000
     },
     {
-      url:"https://drive.google.com/drive/folders/110hAuiBul7gly1umFhfju0CXwblURibu?usp=sharing",
+      url:'https://converse.com.mx/media/catalog/product/c/o/converse-chuck-70-at-cx-cc-lona-caballero-bota-morado-a03275c-1.jpg',
       name: 'Producto 004',
       category: 'Tipo3',
-      price: 1800
+      price: 7000
     },
 ])
 

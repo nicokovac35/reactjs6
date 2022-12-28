@@ -11,7 +11,7 @@ function CartList ({ cart }){
     },[cart])
 
     return(
-        <div>
+        <div className="carritoshow">
             {
 //Ver carrito de compras, agrega product.                
                CART?.map((cartItem, cartindex) =>{
@@ -44,7 +44,7 @@ function CartList ({ cart }){
                     )
                 })
             }
-                <p className="total"> Total <span></span>
+                <p className="total"> Total: <span></span>
                     {
                         CART.map(item => item.price * item.quantity).reduce((total,value) => total + value, 0)
                     }
